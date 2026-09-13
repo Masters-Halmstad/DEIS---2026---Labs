@@ -1,0 +1,9 @@
+build/
+install/
+log/
+*.o
+*.out
+*.exe
+CMakeFiles/
+CMakeCache.txt
+.vscode/
