@@ -7,3 +7,4 @@ log/
 CMakeFiles/
 CMakeCache.txt
 .vscode/
+.venv/
